@@ -1,7 +1,8 @@
-Details(name,place)
+Details(name,place,pincode)
 {
 console.log(name)
 console.log(place)
+console.log(pincode)
 }
 company(name,address)
 {
