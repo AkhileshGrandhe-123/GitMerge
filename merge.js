@@ -3,4 +3,8 @@ Details(name,place)
 console.log(name)
 console.log(place)
 }
-
+company(name,address)
+{
+console.log(company);
+console.log(address);
+}
